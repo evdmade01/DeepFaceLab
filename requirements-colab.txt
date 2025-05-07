@@ -1,11 +1,12 @@
 tqdm
-numpy==1.19.3
+numpy>=1.24.3
 numexpr
-h5py==2.10.0
-opencv-python==4.1.0.25
+h5py>=3.13.0
+opencv-python>=4.11.0
 ffmpeg-python==0.1.17
 scikit-image==0.14.2
 scipy==1.4.1
 colorama
-tensorflow-gpu==2.4.0
+tensorflow>=2.15.0
 tf2onnx==1.9.3
+pandas>=2.2.3
